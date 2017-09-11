@@ -2,7 +2,7 @@
 Android apps developed by me, will add more as I develop them.
 
 ## [SmartRC Controller](https://github.com/tkmarsh/SmartRC)
-Android app that uses bluetooth and wifi to communicate with Arduino powered RC vehicle platform.
+Android app that uses bluetooth and wifi to communicate with Arduino and Pi powered RC vehicle platform.
 ###### (API Level 14 - Mimimum Android Version 4.0.1 - 4.0.2)
 
 ## [TeamPicker](https://github.com/tkmarsh/TeamPicker)
