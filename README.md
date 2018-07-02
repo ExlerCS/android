@@ -14,3 +14,7 @@ A client app used for controlling my Remote Management System, developed for win
 
 Developed using appcompat to target a large range of Android devices, makes use of a lot of android features.
 ###### (API Level 9 - Minium Android Version 2.3 - 2.3.2)
+
+## [Sleepy Dash LWP](https://github.com/tkmarsh/Sleepy-Dash-LWP)
+A Live wallpaper with Rainbow Dash sleeping on a cloud.
+###### (API Level 19 - Minium Android Version 4.4)
